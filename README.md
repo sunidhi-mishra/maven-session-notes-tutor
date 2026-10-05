@@ -8,7 +8,7 @@ Built for the Ayuda AI Build Hackathon using React, TanStack Start, BM25 retriev
 
 - **Live Lovable Link:** [Open the live application](https://maven-ayuda-chatbot.lovable.app/)
 - **Loom Video:** [Watch the screen recording demonstrating the working of the application](https://www.loom.com/share/849269bfb59d4ac3b42a4bdaf980fb4c)
-- **PPT / Presentation:** [View the product presentation](https://docs.google.com/presentation/d/1twdfwrjxC9edTzb__W8RPky4XjsDGspcYzi9uxl0fcw/edit?usp=sharing)
+- **Presentation:** [View the product presentation](https://docs.google.com/presentation/d/1twdfwrjxC9edTzb__W8RPky4XjsDGspcYzi9uxl0fcw/edit?usp=sharing)
 
 ## 🎯 Problem and Purpose
 
