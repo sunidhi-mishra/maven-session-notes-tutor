@@ -16,7 +16,7 @@ Ayuda sessions can last two to three hours. Afterward, learners may remember tha
 
 Maven treats the uploaded transcript as the source of truth:
 
-> Revisit → Understand → Validate → Apply
+> Understand / Revisit → Clarify → Validate → Apply
 
 
 ## ✨ Core Features
